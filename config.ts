@@ -5,7 +5,7 @@ config.google_drive.sheets_folder_ids =  ["10UYZE0yEh36z9suTdXbT-Fb6NzRqLkqr", "
 config.google_drive.assets_folder_ids = ["1SvFOEroXpiaox0d91t2p96_jOJ6Re5oK", "1iIo3YJsyVRL8NRDG4L9xGs_8SK7q8h-g"];
 
 config.git = {
-  content_repo: "https://github.com/IDEMSInternational/app-sample-content.git",
+  content_repo: "https://github.com/ParentingForLifelongHealth/plh-parent-app-content.git",
   content_tag_latest: "0.0.2",
 };
 
